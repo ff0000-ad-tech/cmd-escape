@@ -3,7 +3,7 @@
 	"publishConfig": {
 		"access": "public"
 	},
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Converts a list of unix params into a string that can be executed in Windows cmd.exe",
 	"main": "index.js",
 	"scripts": {
